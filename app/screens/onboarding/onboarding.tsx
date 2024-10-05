@@ -1,6 +1,7 @@
 import React from 'react';
 import {Button} from '../../../components';
 import {Container, StyledImage, TextBackground, StyledText} from './styles';
+
 const OnBoarding = ({navigation}: any) => {
   return (
     <Container>
